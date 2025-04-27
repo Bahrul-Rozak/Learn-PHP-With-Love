@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Input Obat</title>
+</head>
+<body>
+    <h2>Input Obat</h2>
+    <form action="simpan_obat.php" method="POST">
+        <label for="nama_obat">Nama Obat</label>
+        <input type="text" name="nama_obat" id="nama_obat" required> <br>
+        <label for="harga">Harga Obat</label>
+        <input type="text" name="harga_obat" id="harga_obat" required> <br>
+        <label for="deskripsi">Deskripsi</label>
+        <textarea name="deskripsi" id=""deskripsi required></textarea>
+        <button type="submit">Simpan Obat ke TXT</button>
+    </form>
+</body>
+</html>

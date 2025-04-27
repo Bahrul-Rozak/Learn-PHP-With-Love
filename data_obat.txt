@@ -1,0 +1,3 @@
+Nama: Paracetamol | Harga :  | Deskripsi Analgetik dan Antipiretik 
+Nama: Paracetamol | Harga : 50000 | Deskripsi Antipiretik 
+Nama: CTM | Harga : 50000 | Deskripsi Anti histamin 
